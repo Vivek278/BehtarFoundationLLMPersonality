@@ -17,6 +17,7 @@ Final system prompt: Use all of the above 3
 
 
 2. *Controlling personality intensity + 16 traits* ([paper link](https://arxiv.org/pdf/2506.20993))
+
 Novelty:
 (i) Manually created list of adjectives for each intensity level for each of the 16 traits.
 (ii) 5 dimensions of measurement for each trait: frequency, depth, thereshold, effort, willingness (these dimensions used to create dataset of questions for evaluation)
